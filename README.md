@@ -5,8 +5,12 @@
 Thanks for stopping by! I am a junior digital engineer interested in uncovering the untold stories of immense data stores. All coding projects are built from the ground up, designed to meaningfully extract, transform and load raw data into extremely user-friendly dashboards meant for clear and coherent data analysis. As I continue my journey into tech, I am very passionate about learning skills from all over the world of tech (AWS, AI, Full-Stack Web Development, UX/UI Design) to augment the value of my data analytics projects and technical goals. 
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXIwZDM3enF3Nzh3cXNudTQ1anFoMnAzeTRnMmltemhydjN5dzltYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/789tnViwHBH0gQ2u7F/giphy.gif" width="420" height="420" />
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXIwZDM3enF3Nzh3cXNudTQ1anFoMnAzeTRnMmltemhydjN5dzltYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/789tnViwHBH0gQ2u7F/giphy.gif" class="wd rounded-corners" width="420" height="420" />
+<style>
+  img.rounded-corners{
+    border-radius: 75px;
+  }
+</style>
 
 ### 🧰 Languages and Tools
 
