@@ -5,8 +5,7 @@
 Thanks for stopping by! I am a junior digital engineer interested in uncovering the untold stories of immense data stores. All coding projects are built from the ground up, designed to meaningfully extract, transform and load raw data into extremely user-friendly dashboards meant for clear and coherent data analysis. As I continue my journey into tech, I am very passionate about learning skills from all over the world of tech (AWS, AI, Full-Stack Web Development, UX/UI Design) to augment the value of my data analytics projects and technical goals. 
 
 
-<img src="https://drive.google.com/drive/folders/1esKvN5LfdAUrvHIjGEcwGCB2OqgZgyDR?usp=sharing"></img>
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ### 🧰 Languages and Tools
 
