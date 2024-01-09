@@ -8,6 +8,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXIwZDM3enF3Nzh3cXNudTQ1anFoMnAzeTRnMmltemhydjN5dzltYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/789tnViwHBH0gQ2u7F/giphy.gif" align="center" width="350" height="350" />
 </p>
+---
 
 ### 🧰 Languages and Tools
 
