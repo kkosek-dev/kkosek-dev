@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=5000&color=ED706D&vCenter=true&random=false&width=500&lines=Digital+Engineer+(Programmer%2FData+Analyst%2FJr+Developer))](https://git.io/typing-svg)
 
-🟥 I am a digital engineer interested in uncovering the untold stories of immense data stores using technologies at the frontier of innovation. All coding projects are built from the ground up, designed to meaningfully extract, transform and load raw data into extremely user-friendly dashboards meant for clear and coherent data analysis. As I continue my journey into tech, I am very passionate about learning skills from all over the world of tech (AWS, AI, Full-Stack Web Development, UX/UI Design) to augment the value of my data analytics projects and technical goals. <strong>Thanks for stopping by!</strong>
+🟥 I am a digital engineer interested in uncovering the untold stories of immense data stores using technologies at the frontier of innovation. All coding projects are built from the ground up, designed to meaningfully extract, transform and load raw data into extremely user-friendly dashboards meant for clear and coherent data analysis. As I continue my journey into tech, I am very passionate about learning skills from all over the world of tech (AWS, AI, UX/UI Design) to augment the value of my data analytics projects and technical goals. <strong>Thanks for stopping by!</strong>
 <br></br>
 
 <p align="center">
