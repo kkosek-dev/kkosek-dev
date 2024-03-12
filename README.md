@@ -2,7 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&duration=3500&pause=3500&color=D25359&random=false&width=435&lines=Digital+Engineer+(Programmer%2FData+Scientist%2FJr+Developer))](https://git.io/typing-svg)
 
-🟥 I am a digital engineer interested in uncovering the untold stories of immense data stores using technologies at the frontier of innovation. All coding projects are built from the ground up, designed to meaningfully extract, transform and load raw data into extremely user-friendly dashboards meant for clear and coherent data analysis. As I continue my journey into data science, I am very passionate about learning skills from all over the world of tech to augment the value of my data analytics projects and technical goals. <strong>Thanks for stopping by!</strong>
+🟥 I am a versatile researcher interested in leveraging data science & cognitive psychology to study "artificial intelligence" in the dawn of advanced deep learning and large language models. 
+
+I am fascinated by the expeditious success of LLMs and their production use-cases. It is difficult to trust how effective the training of a next-token prediction model on an unfathomable dataset creates a very “intelligent” piece of software, so I have become deeply invested in this technological breakthrough. 
+
+My goal is to actively work in areas I can contribute within the LLM/GenAI space, whether in production or open-source. I am eagerly interested in LLM codebase development, algorithms for fine-tuning pretrained models by use-case, and the growing, open-source LLM research body. <strong>Thanks for stopping by!</strong>
 <br></br>
 
 <p align="center">
