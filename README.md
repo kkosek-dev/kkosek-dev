@@ -14,13 +14,13 @@ My goal in data science is optimizing accurate insights pulled from data near-au
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXIwZDM3enF3Nzh3cXNudTQ1anFoMnAzeTRnMmltemhydjN5dzltYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/789tnViwHBH0gQ2u7F/giphy.gif" align="center" width="350" height="350" />
 </p>
 
-<h2>LLM Prompt Recovery: ML Competition</h2>
+<h3>LLM Prompt Recovery: ML Competition</h3>
 > In this project, our objective was to build an inference NLP model that recieved as input an original text and a rewritten version of the orignal and predicts the specific prompt likely given to a different NLP model that would have rewritten the original according to that prompt. In short, build a model that reasons about its own functionality. The sharpened cosine similarity of the T5 text embeddings for the predictions and actual prompts represents the measure of success for this competition, which can be said simply as how "close" our prediction embeddings are to the actual sentence embeddings in the multidimensional vector space. The first part of the build was assembling a carefully balanced blend of text data that we could rewrite with a controlled list of prompts, so we warehoused over 25 open-source text datasets in order to sample from and balance a distribution of different types of text. Once we had the original blend rewritten according to a controlled list of rewrite prompts, we were able to fit this data onto the pretrained, open-model Gemma LLM from Google to align the base weights for words already learned by the model to our niche use-case, in a process called fine-tuning according to low-rank adaptation. In other words, we repositioned the text embeddings of tokens in the existing vector space of Gemma to make the "words"/tokens frequently used in our controlled list of rewrite prompts more likely to selected during inference of the rewritten prompt. Overall, our team "KAD Solutions" placed in the top 40th percetile of participants with a highest-recorded testing simiarity score of 0.62 with the top-scoring team achieving only 0.71 similarity. Limitations presented by the competition itself are discussed further in the repository. 
 
 [Respository](https://github.com/dlerhetal/PromptRecovery/)
 
 
-<h2>Adversarial Attack threats in NLP</h2>
+<h3>Adversarial Attack threats in NLP</h3>
 
 
 #
