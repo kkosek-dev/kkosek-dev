@@ -1,12 +1,15 @@
 # 🏋️‍♂️ Hi, I'm Karson Kosek
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&duration=3500&pause=3500&color=D25359&random=false&width=435&lines=Digital+Engineer+(Programmer%2FData+Scientist%2FJr+Developer))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&duration=3500&pause=3500&color=D25359&random=false&width=435&lines=Digital+Engineer+(Programmer%2FData+Scientist%2FAvid+Learner))](https://git.io/typing-svg)
 
-🟥 I am a versatile researcher interested in leveraging data science & cognitive psychology to study "artificial intelligence" in the dawn of advanced deep learning and large language models. 
+🟥 Versatile analyst interested in uniting a plethora of data science tools with refined customer service skills, hungry to augment process value for an organization as well as my own professional development in the business setting. Proven knack for seeing trends in raw data and utilizing statistical findings to better inform holistic decisions. Passionate about staying at the frontier of developing data technologies to better advise operational decisions that directly affect individuals and their lives.
 
-I am fascinated by the expeditious success of LLMs and their production use-cases. It is difficult to trust how effective the training of a next-token prediction model on an unfathomable dataset creates a very “intelligent” piece of software, so I have become deeply invested in learning what sets this technological breakthrough apart. 
+My goal in data science is optimizing accurate insights pulled from data near-automatically, so as to understand data in real time. To me, this represents the epitome of applying computers to the study of human behavior. Thus, I am fascinated by GenAI, in particular LLMs and their production use-cases, from an intelligence point-of-view. It is difficult to trust a transformer model trained on an unfathomably large dataset when we already know that machine learning algorithms, such as the transformer, have never been 100% accurate. Yet, doing this creates a very “intelligent” piece of software, so I have become deeply interested in studying what sets this technological breakthrough apart. 
 
-My goal is to actively work in areas I can contribute within the LLM/GenAI space, whether in production or open-source. I am eagerly interested in LLM codebase development, algorithms for fine-tuning pretrained models by use-case, and the growing, open-source LLM research body. In the meantime, I hope to use this GitHub to share interesting LLM related projects, challenges, applications, and general research. <strong>Thanks for stopping by!</strong>
+<strong>Projects<strong>
+🟥
+
+
 <br></br>
 
 <p align="center">
