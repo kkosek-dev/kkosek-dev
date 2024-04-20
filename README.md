@@ -6,7 +6,8 @@
 
 My goal in data science is optimizing accurate insights pulled from data near-automatically, so as to understand data in real time. To me, this represents the epitome of applying computers to the study of human behavior. Thus, I am fascinated by GenAI, in particular LLMs and their production use-cases, from an intelligence point-of-view. It is difficult to trust a transformer model trained on an unfathomably large dataset when we already know that machine learning algorithms, such as the transformer, have never been 100% accurate. Yet, doing this creates a very “intelligent” piece of software, so I have become deeply interested in studying what sets this technological breakthrough apart. 
 
-<strong>Projects<strong>
+<strong>Projects</strong>
+<br></br>
 🟥
 
 
