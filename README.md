@@ -26,8 +26,10 @@ My goal in data science is optimizing accurate insights pulled from data near-au
 [Respository](https://github.com/Hi-Im-Mo/machine-learning-adversarial-attacks)
 
 
-<h3>US Airline Delay Data Analysis</h3>
-> 
+<h3>US Airline Delay Data Analysis Web Application</h3>
+> The objective for this project was to build an interactive dashboard for a data analyst interested in comparing delays across airlines and airports in the United States. To accomplish this goal, I led the development of a web application hosted in AWS, built on a Flask framework with vanilla JavaScript and Bootstrap elements for the front-end, that calls the Bureau of Transportation API for airline delay data and transform it into a variety of data visualizations utilizing the Plotly Python library. The visualizations are broken into two categories, those sorted by airline carrier and those sorted by airport. In both cases, the web application renders the average length of delay by carrier or airport along with an interactive element to investigate the causes for delay for a given carrier or airport. In the presentation of our website to the Vanderbilt University bootcamp cohort, we concluded that the most notable cause for delay by airport was likely regional, as evidenced by the heat map portion of our web application. On the other hand, when analyzing the causes for delay by carrier, we discovered a trend of controllable process variables resposible for the highest proportion of delays for top airline carriers, notably demonstrating that the carriers at the top anticipate delays, yet focus on mitigating overall delay length rather than letting uncontrollable variation significantly hinder the overall process.
+
+[Respository](https://github.com/Hi-Im-Mo/project3)
 
 #
 
